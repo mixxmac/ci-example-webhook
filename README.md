@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mixxmac/ci-example-webhook.svg)](https://travis-ci.org/mixxmac/ci-example-webhook)
+
 An example webhook application using Sinatra to accept and process webhooks from Travis CI.
 
 #### Run it on Heroku
